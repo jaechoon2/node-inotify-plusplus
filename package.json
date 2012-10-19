@@ -5,7 +5,7 @@
   "keywords"      : ["util", "inotify"],
   "author"        : "AJ ONeal <coolaj86@gmail.com>",
   "contributors"  : [],
-  "dependencies"  : {"inotify":"1.0.0"},
+  "dependencies"  : {"inotify":"0.2.2"},
   "lib"           : "lib",
   "main"          : "./lib/inotify++",
   "version"       : "1.0.0"
